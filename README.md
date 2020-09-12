@@ -3,7 +3,7 @@
 [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
 
 ## Watch video here
-Coming Soon!!! 
+https://youtu.be/v9AqPGvPfec
 
 ## Description
 This project helps team leaders and managers quickly generate an outline of their team using command line prompts. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application creates an HTML file that displays a nicely formatted team roster based on the information provided by the user
